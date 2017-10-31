@@ -8,6 +8,10 @@
 ![jetson](http://images.nvidia.com/content/tegra/embedded-systems/images/jetson-tx2-header-new.jpg)
 
 
+### Current Release
+
+  - [Based on `libretro-super` build `daf73cc`](https://github.com/JasonGiedymin/libretro-nvidia-jetson/releases/tag/beta-daf73cc)
+
 ### Compatibility
 
 Should work on:
