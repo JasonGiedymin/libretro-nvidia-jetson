@@ -1,10 +1,21 @@
 # Instructions
 
+
 ## Libretro on Nvidia Jetson
 
 [![](http://www.libretro.com/wp-content/uploads/2013/10/copy-libretro_final_thumb.png)]
 
 ![jetson](http://images.nvidia.com/content/tegra/embedded-systems/images/jetson-tx2-header-new.jpg)
+
+
+### Compatibility
+
+Should work on:
+  - Nvidia Jetson TX1
+  - Nvidia Jetson TX2
+
+
+### Scripts
 
 The following shell script below may work as-is. If it doesn't you want to use the commands within the script manually.
 
